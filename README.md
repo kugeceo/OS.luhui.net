@@ -4,7 +4,7 @@
 # http://os.luhui.net
 
 # 有些时候，想单纯的体验一下这个系统的各方面ui界面操作等等，并不是拿来生产力的，然儿又懒于安装虚拟机（内存不够带不起），那么可以试试几个在线网页版操作系统，打开就能体验，可以操作上网的那种，非常棒！
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/938bc804-c3e5-449c-9b05-6296e8c9de7a/deploy-status)](https://app.netlify.com/sites/daedalos/deploys)
 Windows11：https://win11.blueedge.me/
 
 Windows93：http://www.windows93.net/
